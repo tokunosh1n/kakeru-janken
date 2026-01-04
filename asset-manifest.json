@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kakeru-janken/static/css/main.76dea997.css",
+    "main.js": "/kakeru-janken/static/js/main.b98ea9d4.js",
+    "static/js/453.4af25ef6.chunk.js": "/kakeru-janken/static/js/453.4af25ef6.chunk.js",
+    "index.html": "/kakeru-janken/index.html",
+    "main.76dea997.css.map": "/kakeru-janken/static/css/main.76dea997.css.map",
+    "main.b98ea9d4.js.map": "/kakeru-janken/static/js/main.b98ea9d4.js.map",
+    "453.4af25ef6.chunk.js.map": "/kakeru-janken/static/js/453.4af25ef6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76dea997.css",
+    "static/js/main.b98ea9d4.js"
+  ]
+}
